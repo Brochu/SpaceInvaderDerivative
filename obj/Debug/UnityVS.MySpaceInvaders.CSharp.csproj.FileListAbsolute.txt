@@ -1,0 +1,9 @@
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity3D\Projets\MySpaceInvaders\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity3D\Projets\MySpaceInvaders\obj\Debug\UnityVS.MySpaceInvaders.CSharp.csprojResolveAssemblyReference.cache
+D:\Unity3D\Projets\MySpaceInvaders\obj\Debug\Assembly-CSharp.dll
+D:\Unity3D\Projets\MySpaceInvaders\obj\Debug\Assembly-CSharp.pdb
