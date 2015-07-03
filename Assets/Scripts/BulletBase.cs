@@ -37,6 +37,11 @@ public class BulletBase : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
+        // Check if we hit a game object that can take damage
+        Health otherHealth = other.gameObject.GetComponent<Health>();
+        if (otherHealth != null)
+            otherHealth.takeDamage(damage);
+
         // The bullet explodes if it comes into contact with something
         explode();
     }
